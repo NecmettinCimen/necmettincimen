@@ -15,8 +15,6 @@ I'm working as a Software Engineer in [Alpata](https://github.com/Alpata)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettincimen" />
 
-## 📚 Learning
-
 
 ## 📫 How to reach me
 
