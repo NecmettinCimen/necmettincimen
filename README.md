@@ -8,7 +8,7 @@ My name is Necmettin Çimen, I'm based in Turkey, beautiful city Ankara.
 
 ## 💼 Job
 
-I'm working as a Full Stack Developer in [Bilişim AŞ](https://bilisim.com.tr/)
+I'm working as a Arge and DevOps Developer in [Alpata Teknoloji](http://alpatateknoloji.com)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettincimen" />
 
