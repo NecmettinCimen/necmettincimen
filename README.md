@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Necmettin Çimen, I'm based in Turkey, beautiful city Ankara.
+My name is Necmettin Çimen, I'm based in Turkey, beautiful city Eskişehir.
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fnecmettincimen.necmettincimen%2Freadme)
 
@@ -8,7 +8,7 @@ My name is Necmettin Çimen, I'm based in Turkey, beautiful city Ankara.
 
 ## 💼 Job
 
-I'm working as a Full Stack Developer in [Bilişim AŞ](https://bilisim.com.tr/)
+I'm working as a Arge and DevOps Engineer in [Alpata Teknoloji](http://alpatateknoloji.com/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettincimen" />
 
