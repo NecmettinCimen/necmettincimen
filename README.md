@@ -1,3 +1,6 @@
+# 💫 About Me:
+🚀 Passionate about full stack app development, specializing in Net Core and Flutter.<br>🌟 Exploring the world of Net Core and creating innovative solutions.<br>📱 Building exciting mobile apps using Flutter technology.<br>💡 Turning ideas into reality through Net Core app development.<br>🎯 Focused on mastering Flutter for cutting-edge mobile experiences.<br>🌐 Connecting people through mobile apps with Flutter.<br>📚 I'm continuously expanding my skills in various mobile programming languages to stay versatile in the ever-evolving tech landscape.<br>📝 I share my experiences and insights in the field of full stack app development through articles on my Medium profile.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/necmettincimen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8142362) 
