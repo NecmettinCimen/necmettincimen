@@ -3,7 +3,7 @@
 
 I am a passionate and experienced Full Stack Developer, driven by my love for programming. I dedicate a significant portion of my daily life to writing code and finding innovative solutions to problems through software development. My journey in software development is not just a profession, but a deep-seated interest that fuels my continuous learning and proactive approach to challenges.
 
-Currently, I serve as the **Head of Software** at Forceget Supply Chain Logistics, a leadership role that highlights my technical depth and significant career progression.
+Currently, I serve as the **Senior Full Stack Developer** at Forceget Supply Chain Logistics, a leadership role that highlights my technical depth and significant career progression.
 
 ## 🚀 My Expertise & Tech Stack
 
@@ -31,8 +31,8 @@ Here's a chronological overview of my professional experience:
 
 | Company Name | Title | Duration | Location | Key Responsibilities & Technologies |
 | :--- | :--- | :--- | :--- | :--- |
-| Forceget Supply Chain Logistics | Head of Software | December 2023 - Present (1 year 7 months) | Miami, Florida, USA | Leading software initiatives and providing strategic direction. |
-| Forceget Digital Freight Forwarder | Full Stack Developer | August 2023 - December 2023 (5 months) | Miami, Florida, USA | Full stack development tasks. |
+| Forceget Supply Chain Logistics | Senior Full Stack Developer | December 2023 - Present (1 year 7 months) | Miami, Florida, USA | Leading software initiatives and providing strategic direction. |
+| Forceget Digital Freight Forwarder | Senior Full Stack Developer | August 2023 - December 2023 (5 months) | Miami, Florida, USA | Full stack development tasks. |
 | Alpata Yazılım ve Teknoloji | Full Stack Developer | July 2021 - July 2023 (2 years 1 month) | Eskişehir, Turkey | Application development with.Net Core, Angular, Flutter; deployment on Docker and Kubernetes; automating software processes. |
 | Bilişim A.Ş. | Full Stack Developer | February 2021 - July 2021 (6 months) | Ankara, Turkey | Coded new modules as part of the team developing human resources applications for Havelsan using.Net Core and Angular. |
 | Alpata Yazılım ve Teknoloji | Full Stack Developer | January 2020 - January 2021 (1 year 1 month) | Ankara, Turkey | Developed new applications and added modules to existing applications using.Net Core, MVC, and ASPX. |
