@@ -11,7 +11,7 @@ My technical proficiency spans a wide array of modern technologies, reflecting m
 
 I possess a comprehensive skill set, including:
 
-  * **Backend Development:**.Net Core, C\#, Go, Node, Python
+  * **Backend Development:**.Net Core, C\#, Go, Java, Node, Python
   * **Frontend Development:** Angular, React, SCSS, HTML, JavaScript, TypeScript
   * **Mobile Development:** Flutter, React Native
   * **DevOps & Cloud:** Docker, Kubernetes
@@ -31,8 +31,8 @@ Here's a chronological overview of my professional experience:
 
 | Company Name | Title | Duration | Location | Key Responsibilities & Technologies |
 | :--- | :--- | :--- | :--- | :--- |
-| Forceget Supply Chain Logistics | Senior Full Stack Developer | December 2023 - Present (1 year 7 months) | Miami, Florida, USA | Leading software initiatives and providing strategic direction. |
-| Forceget Digital Freight Forwarder | Senior Full Stack Developer | August 2023 - December 2023 (5 months) | Miami, Florida, USA | Full stack development tasks. |
+| Forceget Supply Chain Logistics | Senior Full Stack Developer | December 2023 - Jul 2025 (2 year) | Istanbul, Turkey | Leading software initiatives and providing strategic direction. |
+| Forceget Digital Freight Forwarder | Senior Full Stack Developer | August 2023 - December 2023 (5 months) | Istanbul, Turkey | Full stack development tasks. |
 | Alpata Yazılım ve Teknoloji | Full Stack Developer | July 2021 - July 2023 (2 years 1 month) | Eskişehir, Turkey | Application development with.Net Core, Angular, Flutter; deployment on Docker and Kubernetes; automating software processes. |
 | Bilişim A.Ş. | Full Stack Developer | February 2021 - July 2021 (6 months) | Ankara, Turkey | Coded new modules as part of the team developing human resources applications for Havelsan using.Net Core and Angular. |
 | Alpata Yazılım ve Teknoloji | Full Stack Developer | January 2020 - January 2021 (1 year 1 month) | Ankara, Turkey | Developed new applications and added modules to existing applications using.Net Core, MVC, and ASPX. |
@@ -48,31 +48,6 @@ I hold a Bachelor's Degree in Computer Engineering from İnönü Üniversitesi, 
 ## 💡 My Projects
 
 My GitHub profile features 18 repositories, showcasing my coding skills, problem-solving abilities, and practical contributions across various technologies.
-
-### Key GitHub Projects
-
-| Project Name | Description | Primary Technologies | Repository Link |
-| :--- | :--- | :--- | :--- |
-| map-and-reduce | map and reduce algorithms project | JavaScript | [https://github.com/NecmettinCimen/map-and-reduce](https://www.google.com/search?q=https://github.com/NecmettinCimen/map-and-reduce) |
-| necmettincimen.github.io | my personal github pages site | HTML | [https://github.com/NecmettinCimen/necmettincimen.github.io](https://www.google.com/search?q=https://github.com/NecmettinCimen/necmettincimen.github.io) |
-| marvel-web | marvel app angular client | SCSS | [https://github.com/NecmettinCimen/marvel-web](https://www.google.com/search?q=https://github.com/NecmettinCimen/marvel-web) |
-| work-follow | small work follow web app | JavaScript | [https://github.com/NecmettinCimen/work-follow](https://www.google.com/search?q=https://github.com/NecmettinCimen/work-follow) |
-| cms-api | content managment system | C\# | [https://github.com/NecmettinCimen/cms-api](https://www.google.com/search?q=https://github.com/NecmettinCimen/cms-api) |
-| task-manager | simple project and task manager web site | C\# | [https://github.com/NecmettinCimen/task-manager](https://www.google.com/search?q=https://github.com/NecmettinCimen/task-manager) |
-| blog-api-golang | blog api golang | Go | [https://github.com/NecmettinCimen/blog-api-golang](https://www.google.com/search?q=https://github.com/NecmettinCimen/blog-api-golang) |
-| marvel-api | marvel api client cache server | C\# | [https://github.com/NecmettinCimen/marvel-api](https://www.google.com/search?q=https://github.com/NecmettinCimen/marvel-api) |
-| nec-sys | (No description provided) | CSS | [https://github.com/NecmettinCimen/nec-sys](https://www.google.com/search?q=https://github.com/NecmettinCimen/nec-sys) |
-| car-service-shop-manage | Car Manager Simple Net Core Devexpress crud project | CSS | [https://github.com/NecmettinCimen/car-service-shop-manage](https://www.google.com/search?q=https://github.com/NecmettinCimen/car-service-shop-manage) |
-| kodluyoruz-hackathon | hackton project for kodluyoruz | TypeScript | [https://github.com/NecmettinCimen/kodluyoruz-hackathon](https://www.google.com/search?q=https://github.com/NecmettinCimen/kodluyoruz-hackathon) |
-| todo-manager | todo manager best features notification | JavaScript | [https://github.com/NecmettinCimen/todo-manager](https://www.google.com/search?q=https://github.com/NecmettinCimen/todo-manager) |
-| necmettincimen | github home page for my bio | Not specified (likely Markdown for a README) | [https://github.com/NecmettinCimen/necmettincimen](https://www.google.com/search?q=https://github.com/NecmettinCimen/necmettincimen) |
-| my-wallpaper-app | react-native wallpaper app | JavaScript | [https://github.com/NecmettinCimen/my-wallpaper-app](https://www.google.com/search?q=https://github.com/NecmettinCimen/my-wallpaper-app) |
-| picsum | Random Image Shower | CSS | [https://github.com/NecmettinCimen/picsum](https://www.google.com/search?q=https://github.com/NecmettinCimen/picsum) |
-| nec-ocelot-gateway | (No description provided) | C\# | [https://github.com/NecmettinCimen/nec-ocelot-gateway](https://www.google.com/search?q=https://github.com/NecmettinCimen/nec-ocelot-gateway) |
-| mini-collect-eggs | simple opengl c++ game | C++ | [https://github.com/NecmettinCimen/mini-collect-eggs](https://www.google.com/search?q=https://github.com/NecmettinCimen/mini-collect-eggs) |
-| marvel-app | marvel app react native client | JavaScript | [https://github.com/NecmettinCimen/marvel-app](https://www.google.com/search?q=https://github.com/NecmettinCimen/marvel-app) |
-
-These projects clearly demonstrate my proficiency in various programming languages and technologies, as well as my ability to develop different types of applications.
 
 ## 🤝 Let's Connect\!
 
