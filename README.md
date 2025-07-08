@@ -31,9 +31,8 @@ Here's a chronological overview of my professional experience:
 
 | Company Name | Title | Duration | Location | Key Responsibilities & Technologies |
 | :--- | :--- | :--- | :--- | :--- |
-| Forceget Supply Chain Logistics | Senior Full Stack Developer | December 2023 - Jul 2025 (2 year) | Istanbul, Turkey | Leading software initiatives and providing strategic direction. |
-| Forceget Digital Freight Forwarder | Senior Full Stack Developer | August 2023 - December 2023 (5 months) | Istanbul, Turkey | Full stack development tasks. |
-| Alpata Yazılım ve Teknoloji | Full Stack Developer | July 2021 - July 2023 (2 years 1 month) | Eskişehir, Turkey | Application development with.Net Core, Angular, Flutter; deployment on Docker and Kubernetes; automating software processes. |
+| Forceget Supply Chain Logistics | Software Team Lead | December 2023 - Jul 2025 (2 year) | Istanbul, Turkey | Leading software initiatives and providing strategic direction. |
+| Alpata Yazılım ve Teknoloji | Senior Full Stack Developer | July 2021 - July 2023 (2 years 1 month) | Eskişehir, Turkey | Application development with.Net Core, Angular, Flutter; deployment on Docker and Kubernetes; automating software processes. |
 | Bilişim A.Ş. | Full Stack Developer | February 2021 - July 2021 (6 months) | Ankara, Turkey | Coded new modules as part of the team developing human resources applications for Havelsan using.Net Core and Angular. |
 | Alpata Yazılım ve Teknoloji | Full Stack Developer | January 2020 - January 2021 (1 year 1 month) | Ankara, Turkey | Developed new applications and added modules to existing applications using.Net Core, MVC, and ASPX. |
 | Enal Yazılım Danışmanlık | Software Developer | June 2019 - November 2019 (6 months) | Malatya, Turkey | Provided customer support for Uyumsoft EFatura GİB integration application with.Net Core, MVC, and ASPX; developed and published mobile applications on Google Play Store using React Native. |
