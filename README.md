@@ -1,59 +1,85 @@
+# Necmettin Çimen
 
-# 👋 Hello, I'm Necmettin Çimen\!
+**Senior Full Stack Developer** · Istanbul, Türkiye · **Remote / hybrid** · **Open to new roles**
 
-I am a passionate and experienced Full Stack Developer, driven by my love for programming. I dedicate a significant portion of my daily life to writing code and finding innovative solutions to problems through software development. My journey in software development is not just a profession, but a deep-seated interest that fuels my continuous learning and proactive approach to challenges.
+Primary stack: **.NET / .NET 9**, **Angular**, **microservices**, **PostgreSQL / SQL Server**, **Redis**, **RabbitMQ**, **Docker**
 
-Currently, I serve as the **Senior Full Stack Developer** at Forceget Supply Chain Logistics, a leadership role that highlights my technical depth and significant career progression.
+---
 
-## 🚀 My Expertise & Tech Stack
+### Recruiters & hiring managers — quick actions
 
-My technical proficiency spans a wide array of modern technologies, reflecting my versatility and strong grasp of contemporary development and DevOps practices.
+| | |
+| :---: | :--- |
+| **[LinkedIn](https://www.linkedin.com/in/necmettincimen)** | Best first touch for role discussions |
+| **[Portfolio](https://necmettincimen.github.io/)** | Full profile, experience, contact |
+| **[Projects & live demos](https://necmettincimen.github.io/)** | Code + runnable examples (APIs, UIs, gateways) |
+| **Email:** [necmettin.dev@gmail.com](mailto:necmettin.dev@gmail.com) | CV & process |
+| **Phone:** +90 530 973 97 21 | When a call is needed |
 
-I possess a comprehensive skill set, including:
+---
 
-  * **Backend Development:**.Net Core, C\#, Go, Java, Node, Python
-  * **Frontend Development:** Angular, React, SCSS, HTML, JavaScript, TypeScript
-  * **Mobile Development:** Flutter, React Native
-  * **DevOps & Cloud:** Docker, Kubernetes
-  * **Other Tools & Concepts:** Software Development, Full Stack Development, OpenGL C++
+<div align="center">
 
-My technology stack has evolved over time, demonstrating my commitment to continuous learning and adapting to industry trends. While I started with more traditional frameworks like.Net MVC and ASPX, my recent experience includes modern and widely adopted technologies such as.Net Core, Angular, Flutter, Docker, and Kubernetes. This adaptability makes me a versatile professional capable of working with both legacy systems and cutting-edge solutions.
+### Snapshot
 
-My expertise in Docker and Kubernetes, particularly my responsibilities at Alpata Yazılım for deploying applications and automating software processes, underscores my practical understanding of modern DevOps principles and CI/CD practices. This indicates my ability to manage the entire software lifecycle, from development to deployment, scaling, and automation.
+[![Experience](https://img.shields.io/badge/8%2B-years%20professional-0891b2?style=for-the-badge&logo=clock&logoColor=white)](https://necmettincimen.github.io/)
+[![Companies](https://img.shields.io/badge/6%2B-companies-0e7490?style=for-the-badge&logo=briefcase&logoColor=white)](https://necmettincimen.github.io/#experience)
+[![Stack](https://img.shields.io/badge/15%2B-technologies-155e75?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://necmettincimen.github.io/)
+[![Projects](https://img.shields.io/badge/30%2B-shipped%20initiatives-164e63?style=for-the-badge&logo=github&logoColor=white)](https://necmettincimen.github.io/)
 
-Furthermore, my experience at Enal Yazılım, where I developed and successfully published mobile applications using React Native on the Google Play Store, showcases my versatility beyond traditional web development. This demonstrates a complete understanding of the mobile application lifecycle, from initial development to final distribution and publication on a public app store.
+[![Demos](https://img.shields.io/badge/View-live%20demos-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://necmettincimen.github.io/)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/necmettincimen)
 
-## 💼 Professional Journey
+[![Followers](https://img.shields.io/github/followers/necmettincimen?style=for-the-badge&logo=github&label=followers&color=0891b2)](https://github.com/necmettincimen?tab=followers)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnecmettincimen&query=%24.public_repos&label=public%20repos&color=0e7490&logo=github&logoColor=white)](https://github.com/necmettincimen?tab=repositories)
 
-My professional career began in 2017 as a Software Developer, progressing to significant Full Stack Developer roles, and culminating in my current position as Head of Software at Forceget Supply Chain Logistics since December 2023.
+</div>
 
-Here's a chronological overview of my professional experience:
+---
 
-| Company Name | Title | Duration | Location | Key Responsibilities & Technologies |
-| :--- | :--- | :--- | :--- | :--- |
-| Forceget Supply Chain Logistics | Software Team Lead | December 2023 - Jul 2025 (2 year) | Istanbul, Turkey | Leading software initiatives and providing strategic direction. |
-| Alpata Yazılım ve Teknoloji | Senior Full Stack Developer | July 2021 - July 2023 (2 years 1 month) | Eskişehir, Turkey | Application development with.Net Core, Angular, Flutter; deployment on Docker and Kubernetes; automating software processes. |
-| Bilişim A.Ş. | Full Stack Developer | February 2021 - July 2021 (6 months) | Ankara, Turkey | Coded new modules as part of the team developing human resources applications for Havelsan using.Net Core and Angular. |
-| Alpata Yazılım ve Teknoloji | Full Stack Developer | January 2020 - January 2021 (1 year 1 month) | Ankara, Turkey | Developed new applications and added modules to existing applications using.Net Core, MVC, and ASPX. |
-| Enal Yazılım Danışmanlık | Software Developer | June 2019 - November 2019 (6 months) | Malatya, Turkey | Provided customer support for Uyumsoft EFatura GİB integration application with.Net Core, MVC, and ASPX; developed and published mobile applications on Google Play Store using React Native. |
-| Tuga Teknoloji | Software Developer | January 2017 - June 2019 (2 years 6 months) | Malatya, Turkey | Developed new applications and added modules to existing applications using.Net MVC. |
+### What you get (evidence-backed)
 
-My rapid progression from Full Stack Developer to Head of Software at Forceget within just five months demonstrates my exceptional performance, quick career advancement, and the clear recognition of my leadership potential and technical expertise by my employer.
+- **Leadership:** Led a **10-person engineering team** (remote, logistics domain); introduced Agile/Scrum and owned technical direction.
+- **Architecture & delivery:** Drove **microservices migration** and backend/DB work that supported **major latency reduction** and **API/DB performance improvements** (measured in production).
+- **Hands-on senior IC:** **.NET 9** and **Angular** for high-concurrency enterprise systems; mentoring, code quality, stakeholder communication.
+- **Proof:** Public repos and **live demos** on the [projects page](https://necmettincimen.github.io/)—good for technical screeners without a call.
 
-## 🎓 Education
+---
 
-I hold a Bachelor's Degree in Computer Engineering from İnönü Üniversitesi, where I studied from 2015 to 2020. This academic foundation provides me with a strong theoretical understanding that complements my extensive practical skills. It signifies a deeper comprehension of fundamental computer science principles, algorithms, data structures, and software engineering methodologies.
+### Skills (role-relevant)
 
-## 💡 My Projects
+| Area | Technologies |
+| :--- | :--- |
+| Backend | .NET / .NET 9, C#, Go, REST APIs, microservices |
+| Frontend | Angular, React, TypeScript, HTML/CSS/SCSS |
+| Data & messaging | PostgreSQL, SQL Server, MySQL, MongoDB, Redis, RabbitMQ |
+| Platform | Docker, Nginx, Ubuntu, CI/CD-aware delivery |
+| Mobile | Flutter, React Native (earlier roles) |
 
-My GitHub profile features 18 repositories, showcasing my coding skills, problem-solving abilities, and practical contributions across various technologies.
+---
 
-## 🤝 Let's Connect\!
+### Experience
 
-I am always open to connecting with fellow professionals, collaborators, and anyone interested in discussing technology or potential opportunities.
+| Company | Role | Period | Location |
+| :--- | :--- | :--- | :--- |
+| [Venhancer](https://www.venhancer.com/en) | Senior Full Stack Developer | Jul 2025 – present | Istanbul, TR (remote) |
+| [Forceget](https://forceget.com) | Software Team Lead | Aug 2023 – Jul 2025 | Miami, FL (remote) |
+| [Alpata](https://alpatateknoloji.com/) | Senior Full Stack Developer | Jul 2021 – Jul 2023 | Ankara, Türkiye |
+| [Bilişim A.Ş.](https://bilisim.com.tr/) | Full Stack Developer | Feb 2021 – Jul 2021 | Ankara, Türkiye |
+| [Alpata](https://alpatateknoloji.com/) | Full Stack Developer | Jan 2020 – Jan 2021 | Ankara, Türkiye |
+| [Enal Yazılım](http://www.enal.com.tr/) | Full Stack Developer | Jun 2019 – Oct 2019 | Malatya, Türkiye |
+| [Tuga Teknoloji](https://tuga.com.tr/) | Full Stack Developer | May 2017 – Jun 2019 | Malatya, Türkiye |
 
-You can find me on:
+---
 
-  * **LinkedIn:** [https://www.linkedin.com/in/necmettincimen/](https://www.linkedin.com/in/necmettincimen/)
+### Education
 
-Feel free to reach out for collaboration opportunities, technical discussions, or general inquiries.
+**B.Sc. Computer Engineering** — İnönü Üniversitesi (2015 – 2020)
+
+---
+
+### More
+
+- **Blog (occasional):** [necmettincimen.github.io/blog.html](https://necmettincimen.github.io/blog.html)
+
+If this profile fits a **senior full-stack**, **team lead**, or **.NET/Angular** opening—especially **remote EU/Global** or **Istanbul hybrid**—the fastest path is **[LinkedIn](https://www.linkedin.com/in/necmettincimen)** or **[email](mailto:necmettin.dev@gmail.com)** with the role title and stack.
